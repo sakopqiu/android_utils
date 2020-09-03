@@ -1,3 +1,4 @@
+include ':error_utils'
 include ':android_utils'
 include ':app'
 rootProject.name = "My Application"
